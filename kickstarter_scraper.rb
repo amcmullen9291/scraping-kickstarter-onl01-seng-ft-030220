@@ -22,4 +22,4 @@ def create_project_hash
   projects
 
 
-endend
+end
